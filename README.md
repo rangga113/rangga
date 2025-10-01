@@ -1,9 +1,24 @@
-# 📸 Project Saya
+# 📸 Project Flutter UI
 
 Selamat datang di repository ini!  
-Berikut adalah tampilan dari aplikasi/project saya:
+Berikut adalah tampilan aplikasi Flutter yang sudah saya buat:
 
-![Preview](tampilan_screen.png)
+## 👤 Profile Screen
+![Profile Screen](pictures/tampilan_profile.png)
 
-![Tampilan Aplikasi](https://raw.githubusercontent.com/rangga/nama-repo/main/images/tampilan_profile.png)
+## 🎬 Detail Screen
+![Detail Screen](pictures/tampilan_screen.png)
+
+---
+
+## 📂 Struktur Project
+- `lib/` → Kode utama aplikasi Flutter
+- `pictures/` → Screenshot aplikasi
+- `README.md` → Dokumentasi project
+
+## 🚀 Cara Menjalankan
+1. Clone repo ini:
+   ```bash
+   git clone https://github.com/username/nama-repo.git
+
 
